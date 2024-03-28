@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.180.86.31
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709976260108
+  login: 1709975941398
+money: '0'
+last-account-name: KrazzyPH029
+lastlocation:
+  world: d52c9984-ff02-4cf7-9374-b94043ed1be2
+  world-name: Spawn
+  x: -3.5180108326161483
+  y: 100.0
+  z: 9.69818901979788
+  yaw: -27.903005599975586
+  pitch: -5.550246715545654
+logoutlocation:
+  world: ef207ca7-274b-48c9-9582-71447f227c2a
+  world-name: world
+  x: -177.45139523773057
+  y: 68.0
+  z: 846.3107528851302
+  yaw: 32.09687805175781
+  pitch: 6.4499382972717285

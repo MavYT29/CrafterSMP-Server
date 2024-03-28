@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.27.62.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698447229581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698447437206
+  login: 1698447086204
+money: '25.0'
+last-account-name: .MaverickPH8866
+lastlocation:
+  world: d52c9984-ff02-4cf7-9374-b94043ed1be2
+  world-name: Spawn
+  x: 5.441134
+  y: 101.0
+  z: 10.211374
+  yaw: -23.176544189453125
+  pitch: -7.1826171875
+logoutlocation:
+  world: 1b826abf-89fc-402a-bfa9-9bb547dfd64f
+  world-name: world
+  x: -4.30001
+  y: 79.0
+  z: -2.6276474
+  yaw: 45.51246643066406
+  pitch: -0.4847412109375

@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "Spawn",
+      "x": -2.5,
+      "y": 101.0,
+      "z": 11.5,
+      "yaw": -166.71472,
+      "pitch": 0.7500224
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&e&lRandomTP"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "rtp world world",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  }
+]

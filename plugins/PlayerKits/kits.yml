@@ -1,0 +1,61 @@
+Kits:
+  Starter:
+    Items:
+      '1':
+        id: STONE_SWORD
+        amount: '1'
+        durability: '0'
+      '2':
+        id: STONE_AXE
+        amount: '1'
+        durability: '0'
+      '3':
+        id: STONE_PICKAXE
+        amount: '1'
+        durability: '0'
+      '4':
+        id: STONE_SHOVEL
+        amount: '1'
+        durability: '0'
+      '5':
+        id: STONE_HOE
+        amount: '1'
+        durability: '0'
+      '6':
+        id: CHAINMAIL_HELMET
+        amount: '1'
+        durability: '0'
+      '7':
+        id: CHAINMAIL_CHESTPLATE
+        amount: '1'
+        durability: '0'
+      '8':
+        id: CHAINMAIL_LEGGINGS
+        amount: '1'
+        durability: '0'
+      '9':
+        id: CHAINMAIL_BOOTS
+        amount: '1'
+        durability: '0'
+      '10':
+        id: COOKED_BEEF
+        amount: '64'
+        durability: '0'
+    slot: 12
+    display_item: IRON_SWORD
+    display_name: '&6&lStarter &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lStarter &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    one_time_buy: true
+    one_time: true
+    first_join: true
+    auto_armor: true
+    page: 1

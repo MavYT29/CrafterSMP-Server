@@ -1,0 +1,88 @@
+10.06.2023 - 07:27:00 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:27:00 - java.lang.NullPointerException: Cannot invoke "me.neznamy.tab.api.placeholder.PlaceholderManager.detectPlaceholders(String)" because the return value of "me.neznamy.tab.api.TabAPI.getPlaceholderManager()" is null
+10.06.2023 - 07:27:00 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.TabPlaceholder.getNestedPlaceholders(TabPlaceholder.java:100)
+10.06.2023 - 07:27:00 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.TabPlaceholder.setPlaceholders(TabPlaceholder.java:134)
+10.06.2023 - 07:27:00 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.updateValue(PlayerPlaceholderImpl.java:85)
+10.06.2023 - 07:27:00 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.lambda$updateValue$0(PlayerPlaceholderImpl.java:91)
+10.06.2023 - 07:27:00 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.CpuManager.lambda$submit$1(CpuManager.java:84)
+10.06.2023 - 07:27:00 - 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+10.06.2023 - 07:27:00 - 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10.06.2023 - 07:27:00 - 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+10.06.2023 - 07:27:00 - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+10.06.2023 - 07:27:00 - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+10.06.2023 - 07:27:00 - 	at java.base/java.lang.Thread.run(Thread.java:833)
+10.06.2023 - 07:27:22 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:27:22 - java.lang.NullPointerException: null
+10.06.2023 - 07:27:49 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:27:49 - java.lang.NullPointerException: null
+10.06.2023 - 07:27:49 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:27:49 - java.lang.NullPointerException: Cannot invoke "me.neznamy.tab.shared.features.PlaceholderManagerImpl.getTabExpansion()" because the return value of "me.neznamy.tab.shared.TAB.getPlaceholderManager()" is null
+10.06.2023 - 07:27:49 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.updateValue(PlayerPlaceholderImpl.java:88)
+10.06.2023 - 07:27:49 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.lambda$updateValue$0(PlayerPlaceholderImpl.java:91)
+10.06.2023 - 07:27:49 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.CpuManager.lambda$submit$1(CpuManager.java:84)
+10.06.2023 - 07:27:49 - 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+10.06.2023 - 07:27:49 - 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10.06.2023 - 07:27:49 - 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+10.06.2023 - 07:27:49 - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+10.06.2023 - 07:27:49 - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+10.06.2023 - 07:27:49 - 	at java.base/java.lang.Thread.run(Thread.java:833)
+10.06.2023 - 07:28:45 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:28:45 - java.lang.NullPointerException: Cannot invoke "me.neznamy.tab.shared.features.PlaceholderManagerImpl.getPlaceholder(String)" because the return value of "me.neznamy.tab.shared.TAB.getPlaceholderManager()" is null
+10.06.2023 - 07:28:45 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.TabPlaceholder.setPlaceholders(TabPlaceholder.java:136)
+10.06.2023 - 07:28:45 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.updateValue(PlayerPlaceholderImpl.java:85)
+10.06.2023 - 07:28:45 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.lambda$updateValue$0(PlayerPlaceholderImpl.java:91)
+10.06.2023 - 07:28:45 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.CpuManager.lambda$submit$1(CpuManager.java:84)
+10.06.2023 - 07:28:45 - 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+10.06.2023 - 07:28:45 - 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10.06.2023 - 07:28:45 - 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+10.06.2023 - 07:28:45 - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+10.06.2023 - 07:28:45 - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+10.06.2023 - 07:28:45 - 	at java.base/java.lang.Thread.run(Thread.java:833)
+10.06.2023 - 07:30:10 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:30:10 - java.lang.NullPointerException: null
+10.06.2023 - 07:30:12 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:30:12 - java.lang.NullPointerException: null
+10.06.2023 - 07:30:12 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:30:12 - java.lang.NullPointerException: Cannot invoke "me.neznamy.tab.shared.features.PlaceholderManagerImpl.getTabExpansion()" because the return value of "me.neznamy.tab.shared.TAB.getPlaceholderManager()" is null
+10.06.2023 - 07:30:12 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.updateValue(PlayerPlaceholderImpl.java:88)
+10.06.2023 - 07:30:12 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.placeholders.PlayerPlaceholderImpl.lambda$updateValue$0(PlayerPlaceholderImpl.java:91)
+10.06.2023 - 07:30:12 - 	at TAB.v3.3.2.jar//me.neznamy.tab.shared.CpuManager.lambda$submit$1(CpuManager.java:84)
+10.06.2023 - 07:30:12 - 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+10.06.2023 - 07:30:12 - 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10.06.2023 - 07:30:12 - 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+10.06.2023 - 07:30:12 - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+10.06.2023 - 07:30:12 - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+10.06.2023 - 07:30:12 - 	at java.base/java.lang.Thread.run(Thread.java:833)
+10.06.2023 - 07:33:09 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:33:09 - java.lang.NullPointerException: null
+10.06.2023 - 07:34:32 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:34:32 - java.lang.NullPointerException: null
+10.06.2023 - 07:35:26 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:35:26 - java.lang.NullPointerException: null
+10.06.2023 - 07:36:31 - [TAB v3.3.2] An error was thrown when executing task
+10.06.2023 - 07:36:31 - java.lang.NullPointerException: null
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to modify non-existing team 0MavvsGamingA for player .TwoBat60216381
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated objective TAB-Scoreboard to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-1 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-2 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-3 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-4 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-5 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-6 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-7 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-8 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-9 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-10 to player MavvsGaming
+21.10.2023 - 16:01:00 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-11 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated objective TAB-Scoreboard to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-1 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-2 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-3 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-4 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-5 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-6 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-7 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-8 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-9 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-10 to player MavvsGaming
+23.10.2023 - 05:41:07 - [TAB v4.0.5] Tried to register duplicated team TAB-SB-TM-11 to player MavvsGaming

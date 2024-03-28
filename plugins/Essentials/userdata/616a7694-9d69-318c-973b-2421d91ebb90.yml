@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698020539228
+  login: 1698020540418
+money: '0'
+last-account-name: XboxGaming
+lastlocation:
+  world: 1b826abf-89fc-402a-bfa9-9bb547dfd64f
+  world-name: world
+  x: 0.0
+  y: 80.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: d52c9984-ff02-4cf7-9374-b94043ed1be2
+  world-name: Spawn
+  x: 0.7546726993382888
+  y: 102.0
+  z: -0.2465899426228237
+  yaw: 7.95257568359375
+  pitch: 11.250048637390137

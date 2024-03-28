@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.33.77.127
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697880398471
+  login: 1697880369920
+money: '0'
+last-account-name: InfamousJJ
+lastlocation:
+  world: 1b826abf-89fc-402a-bfa9-9bb547dfd64f
+  world-name: world
+  x: 0.5
+  y: 80.0
+  z: 6.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 1b826abf-89fc-402a-bfa9-9bb547dfd64f
+  world-name: world
+  x: 15.846905797468537
+  y: 81.0
+  z: 17.387423781189614
+  yaw: -49.87932205200195
+  pitch: 0.366758793592453

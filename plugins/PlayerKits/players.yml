@@ -1,0 +1,42 @@
+Players:
+  00000000-0000-0000-0009-01f680b181d3:
+    name: .MavvsGaming
+  d14c950c-824d-3891-a7e0-166d6c7cf083:
+    name: MavvsGaming
+  00000000-0000-0000-0009-01f1d09837d8:
+    name: .MaverickPH8866
+    Starter:
+      cooldown: 1698178744210
+      buyed: false
+      one_time: true
+  00000000-0000-0000-0009-01f5d557479b:
+    name: .TwoBat60216381
+    Starter:
+      cooldown: 1697873914734
+      buyed: false
+      one_time: true
+  ae3ce1b6-afe7-3390-9301-657e12ea379f:
+    name: InfamousJJ
+    Starter:
+      cooldown: 1697880369890
+      buyed: false
+      one_time: true
+  976f6446-106c-3b4c-a8de-9ea6a26688b5:
+    name: Alluka
+    Starter:
+      cooldown: 1697880463943
+      buyed: false
+      one_time: true
+  616a7694-9d69-318c-973b-2421d91ebb90:
+    name: XboxGaming
+    Starter:
+      cooldown: 1698007111777
+      buyed: false
+      one_time: true
+  11e77a83-6d07-32a7-b525-edd60fceee7e:
+    name: KrazzyPH029
+    Starter:
+      cooldown: 1709583840477
+      buyed: false
+      one_time: true
+

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.80.198.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698480265017
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698482425924
+  login: 1698482306907
+money: '1000001789.0'
+last-account-name: .TwoBat60216381
+lastlocation:
+  world: ef207ca7-274b-48c9-9582-71447f227c2a
+  world-name: world
+  x: 0.0
+  y: 80.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: d52c9984-ff02-4cf7-9374-b94043ed1be2
+  world-name: Spawn
+  x: 0.20237063
+  y: 102.0
+  z: 0.83520895
+  yaw: -156.3565216064453
+  pitch: 19.971038818359375

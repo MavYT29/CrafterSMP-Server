@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698480282710
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698543328478
+  login: 1698543177484
+money: '99986731.5'
+last-account-name: MavvsGaming
+lastlocation:
+  world: ef207ca7-274b-48c9-9582-71447f227c2a
+  world-name: world
+  x: 0.0
+  y: 80.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: d52c9984-ff02-4cf7-9374-b94043ed1be2
+  world-name: Spawn
+  x: 13.751419573603636
+  y: 118.74896934071303
+  z: 9.853147858786585
+  yaw: 137.70022583007812
+  pitch: 36.29996871948242

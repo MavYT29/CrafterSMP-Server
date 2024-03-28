@@ -1,0 +1,56 @@
+#autofilled per-world settings
+#world name according to bukkit
+default:
+    #world name placeholder
+    name: "default"
+    #what set of messages to use for this world
+    msgGroup: "default"
+    #which worlds to send sleep messages
+    # environment names such as "NORMAL", "NETHER", "THE_END" will send to all worlds with that environment
+    # "ALL" will send to all worlds.
+    sendTo:
+      - "world"
+    #which worlds to send time and weather updates, with same placeholders as above
+    # at least 2 players total to trigger sleep message
+    timeSync:
+      - "world"
+    #range of time when sleep is allowed
+    # effective min for overworld - 12010
+    # effective max for overworld - 23992
+    startTime: 12010
+    stopTime: 23992
+world:
+    name: "[world]"
+    msgGroup: "default"
+    sendTo:
+        - "world"
+    timeSync:
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+world_nether:
+    name: "[world_nether]"
+    msgGroup: "default"
+    sendTo:
+        - "world_nether"
+        - "world"
+    timeSync:
+        - "world_nether"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+world_the_end:
+    name: "[world_the_end]"
+    msgGroup: "default"
+    sendTo:
+        - "world_the_end"
+        - "world"
+    timeSync:
+        - "world_the_end"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+
+version: 1.2
